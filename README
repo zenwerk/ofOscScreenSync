@@ -1,0 +1,9 @@
+openFrameworksで異なるディスプレイデバイス間で、映像の同期を実現する。
+ネットワークでつながれたPCでUDP通信を行いディスプレイの描画動機の処理を行う。
+
+サンプルの使い方:
+    oscSenderを実行
+    waveMotion{Left,Right}を実行
+    oscSenderをアクティブウィンドウにしてキーボードの'1'を押せばwaveMotionが実行されます。
+
+
